@@ -12,10 +12,10 @@ The primary platform I use for practicing is Codhar.online, which offers well-st
 
 This repository includes solutions based on:
 
-Python Basics
-Conditional Statements
-Loops & Pattern Printing
-Functions
-Strings
-Lists & Tuples
-Sets & Dictionaries
+-> Python Basics
+-> Conditional Statements
+-> Loops & Pattern Printing
+-> Functions
+-> Strings
+-> Lists & Tuples
+-> Sets & Dictionaries
